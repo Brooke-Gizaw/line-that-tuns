@@ -1,0 +1,14 @@
+The formula is y = m((x-a(-+)|x-a|)/2)+b
+the line will look something like this
+
+        y-axis
+          |
+          |
+          |     /
+__________|____/
+          |_____________ x- axis
+          
+a = a positive number you want you line to bend at
+m = slope of bent line
+b= y-intercept
+for a fliped graph use "-" for rightside up use "+"
